@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MaterialPropertyModifier",
+	"Description": "Simple Plugin to change use property of material.",
+	"Category": "Other",
+	"CreatedBy": "Starledge",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MaterialPropertyModifier",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
